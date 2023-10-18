@@ -5,16 +5,16 @@ build:
  
  
 accounts:
-  message: "Welcome Ruchita Alwekar...cards"
+  message: "Welcome Ruchita...cards"
   contact:
-    name: "Ruchita Alwekar"
+    name: "Ruchita"
     email: "ruchita@gmail.com"
   onCallSupport:
-    - 9834587449
+    - 9833344556
     - 9999999999
     
     
 account-address:
-  branch: SBI UdyamNager cards
+  branch: SBI  cards
   pinCode: "416008"
   city: Kolhapur
