@@ -1,0 +1,19 @@
+
+build:
+ version: "2.0"
+ 
+ 
+accounts:
+  message: "Welcome Ruchita Alwekar...loans"
+  contact:
+    name: "Ruchita Alwekar"
+    email: "ruchita@gmail.com"
+  onCallSupport:
+    - 9834587449
+    - 9999999999
+    
+    
+account-address:
+  branch: SBI UdyamNager loans
+  pinCode: "416008" 
+  city: Kolhapur

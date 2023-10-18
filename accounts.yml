@@ -1,0 +1,21 @@
+
+  
+
+build:
+ version: "3.0"
+ 
+ 
+accounts:
+  message: "Welcome Anish Alwekar..."
+  contact:
+    name: "Anish Alwekar"
+    email: "alwekar@gmail.com"
+  onCallSupport:
+    - 9422509399
+    - 8975978269
+    
+    
+account-address:
+  branch: SBI Shahupuri
+  pinCode: "416003"
+  city: Kolhapur
