@@ -4,7 +4,7 @@ build:
  
  
 accounts:
-  message: "Welcome Anu...loans"
+  message: "Welcome Anu...Prod loans"
   contact:
     name: "Anu"
     email: "anu@gmail.com"
