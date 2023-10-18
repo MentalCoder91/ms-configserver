@@ -4,16 +4,16 @@ build:
  
  
 accounts:
-  message: "Welcome Anish Alwekar...loans"
+  message: "Welcome Anish...loans"
   contact:
-    name: "Anish Alwekar"
-    email: "alwekar@gmail.com"
+    name: "Anish"
+    email: "aish@gmail.com"
   onCallSupport:
-    - 9422509399
-    - 8975978269
+    - 9422502222
+    - 8973333444
     
     
 account-address:
-  branch: SBI Shahupuri loans
+  branch: SBI  loans
   pinCode: "416003"
   city: Kolhapur
