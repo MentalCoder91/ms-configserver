@@ -5,16 +5,16 @@ build:
  
  
 accounts:
-  message: "Welcome Anu Alwekar... cards"
+  message: "Welcome Anu ... cards"
   contact:
-    name: "Anu Alwekar"
+    name: "Anu "
     email: "anu@gmail.com"
   onCallSupport:
-    - 9890646945
+    - 9890667676
     - 9166600999
     
     
 account-address:
-  branch: SBI Dasra Chowk cards
+  branch: SBI  Chowk cards
   pinCode: "416006"
   city: Kolhapur
