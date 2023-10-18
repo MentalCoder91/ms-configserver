@@ -6,10 +6,10 @@ build:
  
  
 accounts:
-  message: "Welcome Anish Alwekar... cards"
+  message: "Welcome Anish... cards"
   contact:
-    name: "Anish Alwekar"
-    email: "alwekar@gmail.com"
+    name: "Anish"
+    email: "anish@gmail.com"
   onCallSupport:
     - 9422509399
     - 8975978269
