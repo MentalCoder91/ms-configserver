@@ -5,9 +5,9 @@ build:
  
  
 accounts:
-  message: "Welcome Ruchita Alwekar..."
+  message: "Welcome Ruchita ..."
   contact:
-    name: "Ruchita Alwekar"
+    name: "Ruchita "
     email: "ruchita@gmail.com"
   onCallSupport:
     - 9838899000
